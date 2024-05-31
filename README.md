@@ -7,12 +7,11 @@ CONTREX, is a novel contrastive representation learning approach for multivariat
 * <code> DATA\Preprocessed-SWANSF-main </code> contains preprocessed SWAN-SF data points, in case of training all components from scratch, the folders to keep data files must be placed under here (names and paths can be specified while running the relevant notebook cells).
   
 * <code> CODE/ </code> The details for each notebook file are as follows:
-  - <code>contrex_module.ipynb</code>: This module is a step-by-step guide to run all experiments and document results in a single notebook file.
+  - <code>contrex_module.ipynb</code>: This module is a step-by-step guide to our experiments in a single notebook file.
     
 # Execution Details 
-* To view our modules, replicate the experiments, and document results in a single file, contrex_module.ipynb file is sufficient.
-* To replicate the experiments skip sections "Downloading Partitions of Preprocessed SWAN-SF" and "STEP 1: Extracting Catch22 features of solar flare data". Start under "The C22 Vectors" section.
-* Since SWAN-SF is a large dataset, we do not include the preprocessed dataset in DATA\Preprocessed-SWANSF-main, if you would need to start the experiments from scratch, don't hesitate to get in touch with us!
+* To view our modules, experiments, and results in a single file, contrex_module.ipynb file is sufficient.
+* Since SWAN-SF is a large dataset, we do not include the preprocessed dataset in DATA\Preprocessed-SWANSF-main, if you need to start the experiments from scratch, don't hesitate to contact us!
 * Original SWAN-SF data comes from: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EBCFKM,
 we use the preprocessed version as discussed in our paper.
 * All experiments are done with python 3.9.13, pytorch 2.1.0, numpy 1.25.2, pycatch22 0.4.2
