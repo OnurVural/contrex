@@ -11,7 +11,7 @@ CONTREX is a novel contrastive representation learning approach for multivariate
     
 # Execution Details 
 * To view our modules, experiments, and results in a single file, contrex_module.ipynb file is sufficient.
-* Since SWAN-SF is a large dataset, we do not include the preprocessed dataset in DATA\Preprocessed-SWANSF-main, if you need to start the experiments from scratch, don't hesitate to contact us!
+* Since SWAN-SF is a large dataset, we do not include the preprocessed dataset in DATA\Preprocessed-SWANSF-main, if you need to train the components and start the experiments from scratch, don't hesitate to contact us!
 * Original SWAN-SF data comes from: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EBCFKM,
 we use the preprocessed version as discussed in our paper.
 * All experiments are done with python 3.9.13, pytorch 2.1.0, numpy 1.25.2, pycatch22 0.4.2
