@@ -12,7 +12,7 @@ CONTREX, is a novel contrastive representation learning approach for multivariat
 # Execution Details 
 * To view our modules, replicate the experiments, and document results in a single file, contrex_module.ipynb file is sufficient.
 * To replicate the experiments skip "STEP 1: Extracting Catch22 features of solar flare data", and start under Section: "The C22 Vectors".
-* Since SWAN-SF is a large dataset, we do not include the preprocessed dataset in DATA\Preprocessed-SWANSF-main, if needed don't hesitate to get in touch with us!
-* Original SWAN-SF data comes from: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EBCFKM
+* Since SWAN-SF is a large dataset, we do not include the preprocessed dataset in DATA\Preprocessed-SWANSF-main, if you would need to start the experiments from scratch, don't hesitate to get in touch with us!
+* Original SWAN-SF data comes from: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EBCFKM,
 we use the preprocessed version as discussed in our paper.
-* All experiments are done with python 3.9.13, pytorch 2.1.0, numpy 1.25.2, pycatch22-0.4.2
+* All experiments are done with python 3.9.13, pytorch 2.1.0, numpy 1.25.2, pycatch22 0.4.2
