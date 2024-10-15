@@ -8,7 +8,7 @@ CONTREX is a novel contrastive representation learning approach for multivariate
   
 * <code> CODE/ </code> The details for each notebook file are as follows:
   - <code>contrex_module.ipynb</code>: This module is a step-by-step guide to our experiments in a single notebook file.
-    
+![tsne2plot (2)](https://github.com/user-attachments/assets/32914459-b77d-4683-a684-fe4435206d92)    
 # Execution Details 
 * To view our modules, experiments, and results in a single file, contrex_module.ipynb file is sufficient.
 * Since SWAN-SF is a large dataset, we do not include the preprocessed dataset in DATA\Preprocessed-SWANSF-main, if you need to train the components and start the experiments from scratch, don't hesitate to contact us!
