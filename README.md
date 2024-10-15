@@ -6,7 +6,7 @@ CONTREX is a novel contrastive representation learning approach for multivariate
 
 * <code> DATA\Preprocessed-SWANSF-main </code> contains preprocessed SWAN-SF data points, in case of training all components from scratch, the folders to keep data files must be placed under here (names and paths can be specified while running the relevant notebook cells).
   
-* <code> CODE/ </code> The details for each notebook file are as follows:
+* <code> src/ </code> The details for each notebook file are as follows:
   - <code>contrex_module.ipynb</code>: This module is a step-by-step guide to our experiments in a single notebook file.
 ![tsne2plot (2)](https://github.com/user-attachments/assets/32914459-b77d-4683-a684-fe4435206d92)    
 # Execution Details 
