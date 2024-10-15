@@ -1,6 +1,6 @@
 # contrex_time_series_contrastive_learning
 CONTREX is a novel contrastive representation learning approach for multivariate time series data, addressing challenges of temporal dependencies and extreme class imbalance. Our method involves extracting dynamic features from the multivariate time series instances, deriving two extremes from positive and negative class feature vectors that provide maximum separation capability, and training a sequence representation embedding module with the original multivariate time series data guided by our custom contrastive reconstruction loss to generate embeddings aligned with the extreme points. These embeddings capture essential time series characteristics and enhance discriminative power. Our approach shows promising classification results on the SWAN-SF benchmark dataset against baseline methods.
-![framework_v9 (1).pdf](https://github.com/user-attachments/files/17372556/framework_v9.1.pdf)
+![1728966521929-b02e9389-0ed4-4d18-a376-bb538c31d9491 (1)_1](https://github.com/user-attachments/assets/603d8dd5-991e-4c86-9302-0e3422fc6e9b)
 # Content Details
 * <code> DATA\catch22 </code> contains data points, including extracted catch22 feature vectors and the contrastive extremes.
 
